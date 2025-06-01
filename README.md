@@ -63,7 +63,7 @@ bun run ArenaTelegram.ts
 
 * The bot fetches and posts blocks based on creation date.
 * Scheduled tasks are automatically set when the bot starts.
-* For group chat IDs, make sure the bot is added to the group and has permission to send messages.
+* For group chats make sure the bot is added to the group and has permission to send messages.
 
 ---
 
